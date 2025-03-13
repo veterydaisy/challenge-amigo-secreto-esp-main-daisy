@@ -4,7 +4,7 @@
     --color-tertiary: #C4C4C4;
     --color-button: #fe652b;
     --color-button-hover: #e55720;
-    --color-text: #444444;
+    --color-text: #55159d;
     --color-white: #FFFFFF;
 }
 
@@ -130,7 +130,7 @@ ul {
     list-style-type: none;
     color: var(--color-text);
     font-family: "Inter", sans-serif;
-    font-size: 18px;
+    font-size: 24px;
     margin: 20px 0;
 }
 
